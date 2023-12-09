@@ -1,3 +1,0 @@
-C:/Users/jbtes/OneDrive/Documentos/GitHub/ComputacaoGrafica2022-2023/build/CMakeFiles/class3.dir
-C:/Users/jbtes/OneDrive/Documentos/GitHub/ComputacaoGrafica2022-2023/build/CMakeFiles/ALL_BUILD.dir
-C:/Users/jbtes/OneDrive/Documentos/GitHub/ComputacaoGrafica2022-2023/build/CMakeFiles/ZERO_CHECK.dir
