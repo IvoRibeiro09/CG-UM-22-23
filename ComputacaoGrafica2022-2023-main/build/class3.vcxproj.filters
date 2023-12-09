@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="C:\Users\jbtes\OneDrive\Documentos\GitHub\ComputacaoGrafica2022-2023\main.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\jbtes\OneDrive\Documentos\GitHub\ComputacaoGrafica2022-2023\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{5D61ACCD-86C9-392B-86AE-BB0D43FABF39}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>
